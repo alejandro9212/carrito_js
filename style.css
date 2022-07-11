@@ -1,0 +1,34 @@
+.bood{
+    background-color: rgb(18, 19, 19);
+    transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+}
+.bood_bd{
+    background-color: rgb(252, 251, 249);
+}
+section.content{
+    background-color: rgb(245, 196, 99);
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.content>form{
+    background-color: aqua;
+    width: 370px;
+    height: 300px;
+   
+}
+form input[type="text"]{
+    width: 70%;
+
+}
+     
